@@ -4,7 +4,7 @@ A real-time chat application built with Nest.js and React, enabling users to cha
 
 #Getting Started
 
-Clone the repository. Start the server by running npm start in the server directory (Port 8001). Start the client by running npm start in the client directory (Port 3000). Choose a username to start chatting.
+Clone the repository. Start the server by running npm start in the server directory (Port 8001). Start the client (chat-app) by running npm start in the client directory (Port 3000). Choose a username to start chatting.
 
 ## Running the app
 
