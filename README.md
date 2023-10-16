@@ -1,3 +1,23 @@
+#Chat Application
+
+A real-time chat application built with Nest.js and React, enabling users to chat and view message history.
+
+#Getting Started
+
+Clone the repository. Start the server by running npm start in the server directory (Port 8001). Start the client by running npm start in the client directory (Port 3000). Choose a username to start chatting.
+
+#Features
+
+Real-time chat. Message history. Easy-to-use interface.
+
+#Built With
+
+Nest.js React WebSocket
+
+#Author
+
+Hayk Nurijanyan
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -57,17 +77,3 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
